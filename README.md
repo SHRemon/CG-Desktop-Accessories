@@ -2,9 +2,11 @@
 
 Project Title:
 A Desktop with Accessories
+
 Project Requirements:
 The project requires creating a 3D scene of a desktop with accessories using Three.js. The general requirements include implementing custom shaders, proper lighting techniques, perspective projection, textures for objects, animations, and both mouse and keyboard interactions.
 Specific requirements for this project include:
+
 •	3D Objects: A monitor with texture and a CPU with texture
 •	Keyboard interaction: Camera movement around the desktop
 •	Mouse interaction: Changing the monitor screen texture when clicked
